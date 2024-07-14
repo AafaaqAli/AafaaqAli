@@ -1,4 +1,4 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/AafaaqAli/AafaaqAli/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/AafaaqAli/AafaaqAli/blob/main/Support.md)
 
 ![](https://komarev.com/ghpvc/?username=AafaaqAli&label=PROFILE+VIEWS) 
 ## Hi, I'm Aafaq! 👋 <br>
