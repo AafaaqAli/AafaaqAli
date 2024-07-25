@@ -10,7 +10,8 @@
     🔥 Grinding hard to make something meaningful...  <br>
     :sparkles: Favorite Tech: Kotlin, Java, Dart, Compose ... <br>
     :email:	aafaq@msn.com <br>
-    :art: Portfolio: https://www.aafaq.com.pk <br>
+    :art: https://www.aafaq.com.pk <br>
+    :scroll: https://aafaaqali.github.io/resume/
   </samp>
 </p>
 
