@@ -6,7 +6,7 @@
 
 <p>
   <samp>
-    💼 Sr. Software Engineer | Team Lead at <b> VentureDive </b> <br>
+    💼 Sr. Software Engineer at <b> LEED Pakistan </b> <br>
     🔥 Grinding hard to make something meaningful...  <br>
     :sparkles: Favorite Tech: Kotlin, Java, Dart, Compose ... <br>
     :email:	aafaq@msn.com <br>
