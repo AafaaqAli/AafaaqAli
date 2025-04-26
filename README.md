@@ -11,7 +11,6 @@
     :sparkles: Favorite Tech: Kotlin, Java, Dart, Compose ... <br>
     :email:	aafaq@msn.com <br>
     :art: https://www.aafaq.com.pk <br>
-    :scroll: https://aafaaqali.github.io/resume/
   </samp>
 </p>
 
