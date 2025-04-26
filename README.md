@@ -9,8 +9,6 @@
     💼 Sr. Software Engineer at <b> LEED Pakistan </b> <br>
     🔥 Grinding hard to make something meaningful...  <br>
     :sparkles: Favorite Tech: Kotlin, Java, Dart, Compose ... <br>
-    :email:	aafaq@msn.com <br>
-    :art: https://www.aafaq.com.pk <br>
   </samp>
 </p>
 
